@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+
+.env*
+
+dev-server.log
+dev-server.err
+portfolio-preview.png
