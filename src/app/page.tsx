@@ -300,17 +300,18 @@ export default function Home() {
               Contact
             </p>
             <h2 className="mt-3 text-3xl font-semibold text-gray-950">
-              Let&apos;s build something useful.
+              Want to build something together?
             </h2>
             <p className="mt-5 text-lg leading-8 text-gray-600">
-              I am open to software engineering, full-stack, frontend, and
-              AI/RAG roles where I can ship reliable product features and
-              practical intelligent systems.
+              I&apos;m looking for software engineering, full-stack, frontend,
+              and AI/RAG roles where I can help ship thoughtful products and
+              practical intelligent systems. If that sounds like a fit, I&apos;d
+              love to talk.
             </p>
             <div className="mt-7 flex flex-wrap gap-3">
               <a
                 href="mailto:yousseff.mansourrr@gmail.com"
-                className="rounded-full bg-gray-950 px-5 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-teal-700 focus:outline-none focus:ring-2 focus:ring-gray-950 focus:ring-offset-2"
+                className="rounded-full bg-teal-700 px-5 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-teal-800 focus:outline-none focus:ring-2 focus:ring-teal-700 focus:ring-offset-2"
               >
                 Email Me
               </a>
